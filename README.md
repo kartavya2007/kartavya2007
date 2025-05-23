@@ -1,7 +1,6 @@
 - 👋 Hi, I’m kartavya
 - 👀 I’m interested in game development, system (OS) building and A.I. bots
-- 🌱 I’m currently learning C language, python and c++
-- 💞️ I’m looking to collaborate on any game file or any upcoming OS
+- 🌱 I’m currently learning C language
 - 📫 I'm newbie and i'm just want to learn with live examples
 
 <!---
